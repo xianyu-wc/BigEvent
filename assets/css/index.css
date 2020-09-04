@@ -22,7 +22,7 @@ iframe {
 }
 
 a {
-  transition: none;
+  transition: none !important;
 }
 
 .userinfo {
